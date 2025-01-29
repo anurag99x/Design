@@ -1,4 +1,4 @@
-package DesignProblems.commandLineTool;
+package DesignProblems.commandLineTool.Ccwc;
 
 import java.io.BufferedReader;
 import java.io.IOException;
